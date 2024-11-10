@@ -1,0 +1,10 @@
+{
+    "selectoreAdresse":"footer >> text=Association Frequencies",
+    "selectorYoutube" : "footer a[aria-label='Visitez notre page Youtube']",
+    "selectorInstagram": "footer a[aria-label='Visitez notre page Instagram']",
+    "selectorFacebook" : "footer a[aria-label='Visitez notre page Facebook']",
+    "selectorLinkedin"  : "footer a[aria-label='Visitez notre page Linkedin']",
+    "selectorAccessibilité": "footer >> text=Déclaration d\u0027accessibilté",
+    "selectorChangeMode": "footer >> text=Light Mode"
+    
+}
