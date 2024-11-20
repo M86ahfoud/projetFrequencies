@@ -1,0 +1,23 @@
+{
+    "Url": "https://www.frequencies.fr/",
+    "selectorButtonDecouvrir": "button:has-text('Découvrir nos histoires')",
+    "selectorEnsavoirButton": {
+        "locator": "button",
+        "option": {
+         "name": "En savoir plus"
+        }
+    },
+    "selectorFaireDon": "button:has-text('Faire un don')",
+    "selectorNousExcrirButton":{
+        "locator": "button",
+        "option": {
+            "name": "Nous écrire"
+        }
+    },
+    "selectorVoirToutButton": {
+        "locator": "link",
+        "option": {
+            "name":"VOIR TOUT"
+        }
+    }
+}
