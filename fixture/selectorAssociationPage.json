@@ -1,0 +1,28 @@
+{
+    "associationOnglet": {
+        "locator": "link",
+        "option": {
+            "name": "L\u0027association",
+            "exact": "true"
+        }
+    },
+    "nousSoutenirButton": {
+        "locator": "button", 
+        "option": {
+            "name": "Nous soutenir"
+        }
+    },
+    "devenirSponsorButton": {
+        "locator": "button",
+        "option": {
+            "name": "Devenir sponsor"
+        }
+    },
+    "voirPartenairButton": {
+        "locator": "button",
+        "option": {
+            "name": "Voir tous nos partenaires"
+        }
+    }
+    
+}
