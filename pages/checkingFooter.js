@@ -1,3 +1,4 @@
+
 exports.checkFooter = class checkFooter {
     constructor(page) {
         this.page = page
